@@ -1,10 +1,9 @@
 *{
     padding: o;
     margin: 0;
-    box-sizing: border-box
+    box-sizing: border-box  
  }
- 
- 
+  
  .cabecalho{
     background-color: aqua;
     padding: 2%;
@@ -53,4 +52,15 @@
     font-size: 20px;
     width: 39%;
  }
+
+ .apresentacao__links__subtitulo{
+   margin-left:6%;
+ }
+
+ .apresentacao__imagem{
+   margin-left:48%;
+ }
  
+ .footer{
+   background-color: aqua;
+ }
