@@ -1,1 +1,56 @@
-
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box
+ }
+ 
+ 
+ .cabecalho{
+    background-color: aqua;
+    padding: 2%;
+    flex-direction: row;
+ }
+ 
+ 
+ .cabecalho__menu{
+    margin-left: 88%;
+    margin-top: -2%;
+    display: flex;
+    gap: 10px;
+ }
+ 
+ 
+ .cabecalho__marca__nome{
+    margin-left:15%
+ }
+ 
+ 
+ .cabecalho__marca__logo{
+    margin-top: 2%
+ }
+ 
+ 
+ .cabecalho__menu__link{
+    font-size: 20px;
+    text-decoration: none;
+   
+ }
+ 
+ 
+ 
+ 
+ .apresentacao__conteudo{
+ }
+ 
+ .apresentacao__conteudo__titulo{
+   margin-left: 6%;
+   font-size: 32px;
+ }
+ 
+ 
+ .apresentacao__conteudo__texto{
+    margin-left:8%;
+    font-size: 20px;
+    width: 39%;
+ }
+ 
