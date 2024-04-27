@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box  
  }
+  :root{
+  }
+/*
   
  .cabecalho{
     background-color: aqua;
@@ -64,3 +67,13 @@
  .footer{
    background-color: aqua;
  }
+*/
+.vermelho{
+   background-color: red;
+   height:100vw;
+   width:100vh;
+}
+.azul{
+   background-color: gray;
+
+}
