@@ -83,8 +83,23 @@
 
  .softskills{
   background-color: aqua;
+  height:70vh;
+  min-height: 10px;
+  margin-left: 12%;
+  max-width: 76%;
+  border-top: solid;
+  border-top-color: black;
+  border-radius: 15px;
+
   
  }
+
+  .softskills2{
+   background-color: blue;
+
+
+   }
+
 
  .textosoft{
   background-color: gray;
@@ -93,6 +108,10 @@
 
  #soft{
   background-color: red;
+  height: 20vh;
+  width: 80%;
+  margin-left:10%;
+  border-radius: 15px;
 
  }
  
