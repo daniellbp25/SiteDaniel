@@ -10,29 +10,26 @@
  .cabecalho{
     background-color: aqua;
     padding: 8px;
-    flex-direction: row;
+    
+  
     
  }
- 
  
  .cabecalho__menu{
     margin-left: 88%;
     margin-top: -2%;
-    display: flex;
-    gap: 10px;
  }
  
- #1{
-   margin-right: 10px;
- }
  
  .cabecalho__marca__nome{
     padding-left: 12vh;
     font-size: 40px;
-    width:100px;
-    display:inline-block
+    
+    
  }
- 
+ .cabecalho__marca{
+    
+}
  
  .cabecalho__marca__logo{
     margin-top: 2%
@@ -42,19 +39,15 @@
  .cabecalho__menu__link{
     font-size: 20px;
     text-decoration: none;
-   
+    margin-bottom: 0px;
+    border: 1px solid;
+    border-radius: 10%;
+    
  }
- .cabecalho__marca{
-   width: 100vh;
-   height: 7vw;
-   padding: 0;
- }
+ 
  .cabecalho__marca__logo{
-   
-   height: 80px;
-   
-   padding-left: 18px;
-   
+    height: 88px;
+    padding-left: 18px;
  }
  
  
@@ -64,8 +57,8 @@
  }
  
  .apresentacao__conteudo__titulo{
-   margin-left: 6%;
-   font-size: 32px;
+    margin-left: 6%;
+    font-size: 32px;
  }
  
  
@@ -76,13 +69,33 @@
  }
 
  .apresentacao__links__subtitulo{
-   margin-left:6%;
+    margin-left:6%;
  }
 
  .apresentacao__imagem{
-   margin-left:48%;
+    margin-left:65%;
+    border: solid 1px;
+    border-radius: 10%;
+    margin-top: -100vh;
+    height: 43vh;
+
+ }
+
+ .softskills{
+  background-color: aqua;
+  
+ }
+
+ .textosoft{
+  background-color: gray;
+
+ }
+
+ #soft{
+  background-color: red;
+
  }
  
  .footer{
-   background-color: aqua;
+    background-color: aqua;
  }
